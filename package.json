@@ -1,7 +1,7 @@
 {
   "name": "Fenrir",
   "version": "0.1.5",
-  "description": "Une description",
+  "description": "Fenrir est un bot discord qui a pour but de vous aider dans la gestion de votre serveur. Il est en constante évolution et de nouvelles fonctionnalités sont ajoutées régulièrement.",
   "main": "app.js",
   "repository": "https://github.com/FLAKEDZ/Fenrir",
   "author": "Falked",
