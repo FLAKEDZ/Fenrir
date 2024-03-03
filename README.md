@@ -1,6 +1,6 @@
-# 🐺 Fenrir Bot 🤖
+# 🐺 Fenrir 🤖
 
-Bienvenue sur le README de **Fenrir Bot**! 🌟
+Bienvenue sur le README de **Fenrir**! 🌟
 
 Fenrir est un compagnon tout-en-un pour votre serveur Discord, offrant une multitude de fonctionnalités pour améliorer l'expérience des membres et des administrateurs. 🚀
 
@@ -44,4 +44,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ---
 
-© 2024 Fenrir Bot. Tous droits réservés.
+© 2024 Fenrir. Tous droits réservés.
