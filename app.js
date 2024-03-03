@@ -16,10 +16,8 @@ const client = new Client({
     Partials.Reaction,
     Partials.GuildScheduledEvent
   ]
-})
-
-client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login(config.client.token);
+client.login(config.client.token).then(() => {
+  console.log(`${client.user.username} is ready`);
+})
