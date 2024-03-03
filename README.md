@@ -32,7 +32,7 @@ Vous pouvez inviter Fenrir sur votre serveur en [cliquant ici](lien_d'invitation
 
 ## 🛠️ Serveur de Support:
 
-Pour toute question, suggestion ou assistance, rejoignez notre serveur de support en [cliquant ici](lien_serveur_support) !
+Pour toute question, suggestion ou assistance, rejoignez notre serveur de support en [cliquant ici](https://discord.gg/cPdHkfU28H) !
 
 ## 🤝 Contribution:
 
